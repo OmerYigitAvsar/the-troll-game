@@ -1,0 +1,113 @@
+# Unity-generated directories
+.utmp/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Unity build pipeline, IL2CPP, Burst, and Bee output
+/[Bb]ee/
+/[Ii]l2[Cc][Pp][Pp][Bb]uild[Cc]ache/
+**/[Ii]l2[Cc][Pp][Pp][Oo]utput[Pp]roject/
+**/[Bb]urst[Dd]ebug[Ii]nformation_[Dd]o[Nn]ot[Ss]hip/
+**/[Dd]o[Nn]ot[Ss]hip/
+
+# Auto-generated IDE and editor files
+.vs/
+.vscode/
+.idea/
+.consulo/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# Unity-generated metadata for generated binaries
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Build artifacts and packages
+*.apk
+*.aab
+*.app
+*.unitypackage
+*.unitypackage.meta
+
+# Gradle and Android build caches
+.gradle/
+**/.gradle/
+
+# Crash reports, logs, and temporary files
+*.log
+sysinfo.txt
+mono_crash.*
+crashlytics-build.properties
+
+# Blender backup files imported by Unity
+*.blend1
+*.blend1.meta
+
+# Test Runner-generated scenes
+InitTestScene*.unity*
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Addressables-generated output
+/ServerData/
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/Addressables_Temp*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# Visual Scripting-generated files
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# Other Unity/editor-generated data
+/[Aa]ssets/Plugins/Editor/JetBrains*
+/[Aa]ssets/[Ss]ceneDependencyCache*
+/UIElementsSchema/
+
+# Local secrets and signing material
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+*.cer
+*.crt
+*.mobileprovision
+google-services.json
+GoogleService-Info.plist
+credentials.json
+secrets.json
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
